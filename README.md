@@ -30,4 +30,4 @@ Raspberry Pi Home Surveillance.
 
 # Copyright
 
-2020-2021 Denis Meyer, https://github.com/CallToPower
+2020-2022 Denis Meyer, https://github.com/CallToPower
